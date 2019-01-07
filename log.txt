@@ -1,0 +1,74 @@
+2016/11/14 18:20:13 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:21:34 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:22:37 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:23:14 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:24:37 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:24:50 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:25:39 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:26:32 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:29:33 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:32:07 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:33:43 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/14 18:34:04 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/15 00:15:03 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v0.9.au3
+
+2016/11/15 01:15:56 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:03:14 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:05:16 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:07:07 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:07:29 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:07:51 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:10:48 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:11:17 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:12:43 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:15:06 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:15:26 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 09:15:43 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 11:10:03 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 11:11:09 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2016/11/15 12:18:12 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\Folder4Mkv.exe
+
+2017/01/30 19:24:17 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\Folder4Mkv.exe
+
+2017/04/28 20:48:38 AutoIt: 3.3.12.0, AdminMode, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\RenameDirectory v1.0.au3
+
+2017/04/29 19:44:59 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\MkvRenameDirectory.exe
+
+2017/04/29 19:46:41 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\MkvRenameDirectory.exe
+
+2017/04/29 19:50:36 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\MkvRenameDirectory.exe
+
+2017/04/29 19:54:07 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\MkvRenameDirectory.exe
+
+2017/04/29 19:56:12 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\MkvRenameDirectory.exe
+
+2018/06/22 10:56:58 AutoIt: 3.3.12.0, Compiled, OS: WIN_8/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\MkvRenameDirectory.exe
+
+2019/01/07 02:00:28 AutoIt: 3.3.12.0, Compiled, OS: WIN_8/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\_Rename MKV Directory\MkvRenameDirectory.exe
+

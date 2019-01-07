@@ -1,0 +1,3 @@
+- renommer le 'Le' en fr comme le 'The' en anglais
+- virer tous les samples
+- Enlever la taille du répertoire avant de le renommer
